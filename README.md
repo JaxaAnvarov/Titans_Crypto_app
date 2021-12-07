@@ -13,6 +13,8 @@ Imtihon uchun yozgan dasturim.
  <img src="https://i.ibb.co/wprTWWG/Screenshot-from-2021-12-03-20-53-47.png"
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="300"/>
+     
+     
 ### Home Page
 
  </br>
@@ -27,6 +29,8 @@ Imtihon uchun yozgan dasturim.
  <img src="https://i.ibb.co/7tDvy9z/photo-2021-12-03-20-50-11.jpg"
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="200" />
+     
+     
 ###  QR Code Page
  </br>
  </br>
