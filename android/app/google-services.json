@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "47506744609",
+    "project_id": "videkurs",
+    "storage_bucket": "videkurs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47506744609:android:90d33c5b60e67e64c78a60",
+        "android_client_info": {
+          "package_name": "com.example.titanscrypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47506744609-f2us441k68i3ru1med374o317rufrhf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.titanscrypto",
+            "certificate_hash": "a071669a7f525064e5c7b002667a45e7f43a5015"
+          }
+        },
+        {
+          "client_id": "47506744609-ksbp8mn47ipmftav3ba7a6cch287eugc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjft3NrLsRnl8RJghWIMLoFwmCyotZVGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47506744609-ksbp8mn47ipmftav3ba7a6cch287eugc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
